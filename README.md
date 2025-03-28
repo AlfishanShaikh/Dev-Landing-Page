@@ -7,9 +7,11 @@ A sleek, modern, and fully responsive **Developer Landing Page** designed to sho
 Check out the live demo:  
 👉 [View Project](https://github.com/AlfishanShaikh/Dev-Landing-Page)  
 
-![Developer Landing Page](path/to/your/image.png)  
 
-![Developer Landing Page](path/to/your/image.png) 
+![Developer Landing Page](https://github.com/AlfishanShaikh/Dev-Landing-Page/blob/2e4a7cd0848781e69ede1276ca96930798c99520/screenshot%201.png)  
+
+
+![Developer Landing Page](https://github.com/AlfishanShaikh/Dev-Landing-Page/blob/2e4a7cd0848781e69ede1276ca96930798c99520/screenshot%202.png) 
 
 ## 📂 Project Files
 
