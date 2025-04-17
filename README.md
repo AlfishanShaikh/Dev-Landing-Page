@@ -4,8 +4,9 @@ A sleek, modern, and fully responsive **Developer Landing Page** designed to sho
 
 ## 🔥 Live Preview  
 
-Check out the live demo:  
-👉 [View Project](https://github.com/AlfishanShaikh/Dev-Landing-Page)  
+👉 [Click Here to View Live](https://alfishanshaikh.github.io/Job-Application-Form/) 
+
+---
 
 
 ![Developer Landing Page](https://github.com/AlfishanShaikh/Dev-Landing-Page/blob/2e4a7cd0848781e69ede1276ca96930798c99520/screenshot%201.png)  
